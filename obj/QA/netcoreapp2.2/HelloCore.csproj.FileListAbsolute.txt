@@ -1,0 +1,13 @@
+C:\cciazure\HelloCore\bin\QA\netcoreapp2.2\HelloCore.deps.json
+C:\cciazure\HelloCore\bin\QA\netcoreapp2.2\HelloCore.runtimeconfig.json
+C:\cciazure\HelloCore\bin\QA\netcoreapp2.2\HelloCore.runtimeconfig.dev.json
+C:\cciazure\HelloCore\bin\QA\netcoreapp2.2\HelloCore.dll
+C:\cciazure\HelloCore\bin\QA\netcoreapp2.2\HelloCore.pdb
+C:\cciazure\HelloCore\obj\QA\netcoreapp2.2\HelloCore.csproj.CoreCompileInputs.cache
+C:\cciazure\HelloCore\obj\QA\netcoreapp2.2\HelloCore.RazorAssemblyInfo.cache
+C:\cciazure\HelloCore\obj\QA\netcoreapp2.2\HelloCore.RazorAssemblyInfo.cs
+C:\cciazure\HelloCore\obj\QA\netcoreapp2.2\HelloCore.AssemblyInfoInputs.cache
+C:\cciazure\HelloCore\obj\QA\netcoreapp2.2\HelloCore.AssemblyInfo.cs
+C:\cciazure\HelloCore\obj\QA\netcoreapp2.2\HelloCore.RazorTargetAssemblyInfo.cache
+C:\cciazure\HelloCore\obj\QA\netcoreapp2.2\HelloCore.dll
+C:\cciazure\HelloCore\obj\QA\netcoreapp2.2\HelloCore.pdb
